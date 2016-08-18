@@ -6,7 +6,7 @@ To Build:
     First install Love2D on your machine
         http://love2d.org
 
-    On Linux Distros you can run the game by running:
+    On Linux Distros you can run the game by running after cloning and naming the parent directory SnakeThemed.love:
         >love SnakeThemed.love
 
         There are nifty packages I found within Atom that allow you to run through
