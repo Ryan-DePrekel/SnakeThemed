@@ -1,6 +1,5 @@
 Snake Themed Game for Computer Club Contest
 
-Currently everything is squares (whoops)
 Top Down Shooter built in Love2D
 
 To Build:
@@ -11,4 +10,17 @@ To Build:
         >love SnakeThemed.love
 
 Note:
-    Game is very incomplete and more is to come.
+    Game is very incomplete and more is to come. Currently everything is a
+    square (whoops) and enemies just walk toward the player and you can shoot
+
+    Controls:
+        WASD to move, arrow keys to fire
+
+To-Do:
+    Add a clear objective to the game (duh)
+        -Kill the snake enemies to defend them from your house
+        -Currently 'Snakes' just walk at player
+    Add sprites for the snakes, player, etc.
+
+    Add scoreboard
+    Create power-ups
