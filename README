@@ -6,21 +6,32 @@ To Build:
     First install Love2D on your machine
         http://love2d.org
 
-    On Linux Distros you can run the game by running
+    On Linux Distros you can run the game by running:
         >love SnakeThemed.love
+
+        There are nifty packages I found within Atom that allow you to run through
+        the text editor.
+    On Windows
+        Click and drag the project directory onto the LOVE2D launcher
+        I'm sure you can also execute it via the CMD but I don't build
+        under Windows so ¯\_(ツ)_/¯
+
+    There would be an executable if i felt it deserved one but alas it is
+    very lacking.
 
 Note:
     Game is very incomplete and more is to come. Currently everything is a
-    square (whoops) and enemies just walk toward the player and you can shoot
+    square (whoops) and enemies just walk toward the player and you can shoot them
 
     Controls:
         WASD to move, arrow keys to fire
 
 To-Do:
     Add a clear objective to the game (duh)
-        -Kill the snake enemies to defend them from your house
+        -Kill the snake enemies to defend them from your house?
         -Currently 'Snakes' just walk at player
     Add sprites for the snakes, player, etc.
-
     Add scoreboard
+    Add UI/HUD
     Create power-ups
+    Add a menu
