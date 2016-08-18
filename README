@@ -1,0 +1,14 @@
+Snake Themed Game for Computer Club Contest
+
+Currently everything is squares (whoops)
+Top Down Shooter built in Love2D
+
+To Build:
+    First install Love2D on your machine
+        http://love2d.org
+
+    On Linux Distros you can run the game by running
+        >love SnakeThemed.love
+
+Note:
+    Game is very incomplete and more is to come.
